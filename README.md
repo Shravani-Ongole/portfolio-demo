@@ -22,7 +22,7 @@ The functional features like tab switching and form submissions will be added la
 
 This project was built by following a YouTube tutorial.
 
-📺 **Tutorial Link**: [https://www.youtube.com/watch?v=YOUR-LINK-HERE](https://youtu.be/0YFrGy_mzjY?si=PSR78s2DcTkvyU4d)  
+📺 **Tutorial Link**: [(https://youtu.be/0YFrGy_mzjY?si=PSR78s2DcTkvyU4d)] 
 ⏱️ **Watch from**: 1:48:00-2:00:13 
 Watch this tutorial if u want to make your google sheets resonsive. 
 🎓 **Credit**: All thanks to the original creator for their helpful content!
@@ -38,4 +38,4 @@ A full version will be uploaded to my portfolio soon.
 ## ✨ Connect With Me
 Feel free to check out my GitHub profile or reach out!
 
-👩‍💻 GitHub: [https://github.com/YOURUSERNAME](https://github.com/Shravani-Ongole)
+👩‍💻 GitHub: [https://github.com/Shravani-Ongole](https://github.com/Shravani-Ongole)
